@@ -6,7 +6,7 @@
                 "server_port":8000,
                 "local_port":1080,
                 "password":"nPeMTw62Vt6Xr6Y",
-                "timeout":60,
+                "timeout":20,
                 "method":"aes-256-gcm"
                 },    
                 {
@@ -14,7 +14,7 @@
                 "server_port":8000,
                 "local_port":1080,
                 "password":"sU6gcC5jSffu7fL",
-                "timeout":60,
+                "timeout":20,
                 "method":"aes-256-gcm"
                 },
                 
@@ -23,7 +23,7 @@
                 "server_port":8000,
                 "local_port":1080,
                 "password":"8xQiQPgvUZHSgK3",
-                "timeout":60,
+                "timeout":20,
                 "method":"aes-256-gcm"
                 },
                 
@@ -32,7 +32,7 @@
                 "server_port":8000,
                 "local_port":1080,
                 "password":"8xQiQPgvUZHSgK3",
-                "timeout":60,
+                "timeout":20,
                 "method":"aes-256-gcm"
                 }
                 ],
